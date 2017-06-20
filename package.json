@@ -1,0 +1,24 @@
+{
+  "name": "image-abstraction-layer",
+  "version": "1.0.0",
+  "description": "This is a API using google custome search to search image on the web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/524119574/image-abstraction-layer.git"
+  },
+  "author": "Leonard Ge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/524119574/image-abstraction-layer/issues"
+  },
+  "homepage": "https://github.com/524119574/image-abstraction-layer#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "google-images": "^2.1.0",
+    "mongodb": "^2.2.29"
+  }
+}
